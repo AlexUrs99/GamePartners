@@ -11,7 +11,7 @@ initialModel =
 
 urlPrefix : String
 urlPrefix =
-    "file:///home/ursalex/Pictures/GamePartners/"
+    "https://api.github.com/repos/AlexUrs99/GamePartners/contents/"
 
 
 buildUrl : String -> String
